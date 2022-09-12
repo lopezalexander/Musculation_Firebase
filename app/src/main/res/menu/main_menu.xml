@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:checkableBehavior="single">
+
+
+		<item
+			android:id="@+id/questionA"
+			android:title="@string/courriel"
+			/>
+
+		<item
+			android:id="@+id/questionB"
+			android:title="@string/t_l_phone"
+			/>
+
+
+
+	</group>
+
+</menu>
